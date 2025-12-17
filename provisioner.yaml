@@ -1,0 +1,7 @@
+serviceName: mmdemo005
+agentRuntime: AgentCore
+
+envs:
+  - name: dev
+    depends: None
+    cluster: cnoe-ref-impl
