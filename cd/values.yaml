@@ -2,7 +2,6 @@ agentName: mmdemo005
 namespace: mmdemo005
 imageRepo: 229560443702.dkr.ecr.us-west-2.amazonaws.com/mmdemo005
 agentRuntime: AgentCore
-
 envs:
   - name: dev
     depends: None
